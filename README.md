@@ -2,6 +2,7 @@
 
 ![CI](https://github.com/krishnavenu12/AI-Powered-Expense-Tracker/actions/workflows/test.yml/badge.svg)
 
+
 A smart personal finance tracker built using FastAPI and Streamlit that uses NLP to automatically categorize expenses. This full-stack application helps users log, track, and analyze their spending habits with real-time alerts, visual insights, and AI-based intelligence.
 
 ---
